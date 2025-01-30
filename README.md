@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviarasu758/Problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/kaviarasu758/Problem-solving/tree/master/0138-copy-list-with-random-pointer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaviarasu758/Problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/kaviarasu758/Problem-solving/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
