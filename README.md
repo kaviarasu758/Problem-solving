@@ -55,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
