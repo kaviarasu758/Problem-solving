@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kaviarasu758/Problem-solving/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
