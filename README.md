@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviarasu758/Problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaviarasu758/Problem-solving/tree/master/0138-copy-list-with-random-pointer) |
+| [2434-design-a-number-container-system](https://github.com/kaviarasu758/Problem-solving/tree/master/2434-design-a-number-container-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/kaviarasu758/Problem-solving/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/kaviarasu758/Problem-solving/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/kaviarasu758/Problem-solving/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
