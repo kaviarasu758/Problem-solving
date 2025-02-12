@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/kaviarasu758/Problem-solving/tree/master/2434-design-a-number-container-system) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/kaviarasu758/Problem-solving/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
