@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviarasu758/Problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaviarasu758/Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/kaviarasu758/Problem-solving/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kaviarasu758/Problem-solving/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/kaviarasu758/Problem-solving/tree/master/0189-rotate-array) |
 ## Design
 |  |
 | ------- |
