@@ -23,17 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviarasu758/Problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaviarasu758/Problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviarasu758/Problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaviarasu758/Problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kaviarasu758/Problem-solving/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaviarasu758/Problem-solving/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/kaviarasu758/Problem-solving/tree/master/0178-rank-scores) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
