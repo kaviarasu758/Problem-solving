@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviarasu758/Problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaviarasu758/Problem-solving/tree/master/0138-copy-list-with-random-pointer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kaviarasu758/Problem-solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [2434-design-a-number-container-system](https://github.com/kaviarasu758/Problem-solving/tree/master/2434-design-a-number-container-system) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/kaviarasu758/Problem-solving/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kaviarasu758/Problem-solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
 ## Rolling Hash
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/kaviarasu758/Problem-solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/kaviarasu758/Problem-solving/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
 ## Recursion
