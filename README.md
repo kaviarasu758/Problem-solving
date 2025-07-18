@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaviarasu758/Problem-solving/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/kaviarasu758/Problem-solving/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kaviarasu758/Problem-solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/kaviarasu758/Problem-solving/tree/master/0214-shortest-palindrome) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaviarasu758/Problem-solving/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kaviarasu758/Problem-solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/kaviarasu758/Problem-solving/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kaviarasu758/Problem-solving/tree/master/0224-basic-calculator) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaviarasu758/Problem-solving/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kaviarasu758/Problem-solving/tree/master/0095-unique-binary-search-trees-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kaviarasu758/Problem-solving/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
